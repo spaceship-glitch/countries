@@ -4,4 +4,6 @@ This project aims at categorizing countries according to socio-economic and heal
 
 ## File description
 - country_grouping.ipynb: notebook of the project.
+- CountryCategorization.pptx: slides for presentation.
 - data: directory containing the data. 
+
